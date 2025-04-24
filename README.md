@@ -1,5 +1,5 @@
 # Self Learning
-Here we're trying to check, implement or examine some suggestions, methods or software tools (libs). All by ourselves, this code are not from some courses teaching materials.<br>
+Here we're trying to implement, check, or examine some theory, suggestions or software tools (libs). All by ourselves, this code are not from some courses teaching materials.<br>
 Well Ok, there's no 'we', all of those are my one's, but I will follow the scientific\educational works' approach when all the actions of implementer(s) are described in plural form.
 
 ## List of issues explored
