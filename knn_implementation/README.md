@@ -1,0 +1,1 @@
+KNN is one of the easiest to understand ML algorithms. But could we implement this thing based on theory? 
