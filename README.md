@@ -12,7 +12,9 @@ Well Ok, there's no 'we', all of those are my one's, but I will follow the scien
 
 
 <br>
-<img src="https://downloader.disk.yandex.ru/preview/7d696212305ebd4a7c653241c99e4ae518856f85b8242cdb42b51dec7f994464/68145bc2/_W-HRtYEMGiZj5hW1mGMaDRnsfnyXNvBqcfYonNyXWcE7uM1Ooq2hOJV8mH_WD10RMKgBkMFb65flDU2kKLknw%3D%3D?uid=0&filename=cc01617efbb311efafccea18383b5847_1.jfif&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1024x1024" alt="ML Junior" title="ML Junior" />
+
+![cc01617efbb311efafccea18383b5847_1](https://github.com/user-attachments/assets/64c3cc02-19f3-4ff4-81a0-0efa86e30212)
+
 <i>just one of the pics I generated on March, 8th for datascience girls. nice, right?</i>
 
 
